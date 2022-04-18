@@ -148,6 +148,19 @@ nav ul li {
     .menu-btn i{
         display:block;
     }
+	#main{
+        background-image: url(sandeepvril4.jpg );
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 100vh;
+        
+        
+        
+        
+    
+    }
+	
+	
   #click:checked ~ .menu-btn i::before{
       content: "\f00d";
   }
